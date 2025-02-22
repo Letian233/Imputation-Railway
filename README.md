@@ -9,3 +9,9 @@
 
 
 [more](https://letian233.github.io/Imputation-Railway/more.html) 
+
+
+[more2](https://letian233.github.io/Imputation-Railway/more2.html) 
+
+
+[feature importance](https://letian233.github.io/Imputation-Railway/feature_importance.html) 
